@@ -1,0 +1,16 @@
+#title{
+    color: #5e5e5e;
+    text-align: center;
+    display: block;
+    margin: 150px auto ;
+    font-size: 50px;
+    font-family: "Segoe Script";
+}
+hr{
+    width: 75%;
+    margin-top: -50px;
+}
+#sign{
+    float: left;
+
+}
