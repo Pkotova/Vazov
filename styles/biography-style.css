@@ -8,6 +8,16 @@
     font-weight: 100;
     font-style: italic;
 }
+#title{
+    color: #5e5e5e;
+    text-align: center;
+    display: block;
+    margin: 100px auto ;
+    font-size: 50px;
+    font-family: "Segoe Script";
+    font-weight: 100;
+    font-style: italic;
+}
 hr{
     width: 75%;
     margin-top: -50px;
@@ -40,28 +50,7 @@ hr{
     transition: 1s ease 0s;
     color: #545454;
     font-size: 20px;
-
-
 }
-#vazov1{
-    margin: 50px auto;
-    display: block;
-    text-align: center;
-    width: auto;
-}
-#phrase{
-    margin: 50px auto;
-    display: block;
-    text-align: center;
-    width: 65%;
-    font-family: "Segoe Script";
-    font-size: 20px;
-    color: #ADADAD;
-    transition: 2s ease 0s;
-}
-#phrase:hover{
-
-    transition: 2s ease 0s;
-    font-size:20.5px;
-    color:#7C7C7C;
+#bioTitle{
+    
 }
