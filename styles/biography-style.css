@@ -2,25 +2,13 @@
     color: #5e5e5e;
     text-align: center;
     display: block;
-    margin: 100px auto ;
+    margin: 50px auto ;
     font-size: 50px;
     font-family: "Segoe Script";
     font-weight: 100;
     font-style: italic;
-}
-#title{
-    color: #5e5e5e;
-    text-align: center;
-    display: block;
-    margin: 100px auto ;
-    font-size: 50px;
-    font-family: "Segoe Script";
-    font-weight: 100;
-    font-style: italic;
-}
-hr{
-    width: 75%;
-    margin-top: -50px;
+    border-bottom: 1px solid #5e5e5e;
+    width: 45%;
 }
 #sign {
     float: left;
@@ -50,7 +38,74 @@ hr{
     transition: 1s ease 0s;
     color: #545454;
     font-size: 20px;
+
+
 }
-#bioTitle{
-    
+#navigation2{
+    margin:  auto;
+    display: block;
+    text-align: center;
+    border-color: #E0E0E0;
+    width: 95%;
+    padding: 5px 5px;
+    font-family: "Sitka Small";
+    font-style: italic;
+}
+
+#navigation2 a{
+    color: #7F7F7F;
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 5px 22px ;
+    transition: 2s ease 0s;
+}
+#navigation2 a:hover{
+    transition: 1s ease 0s;
+    color: #545454;
+    font-size: 20px;
+
+
+}
+#imagePortrait {
+    margin-left: 20%;
+
+}
+.photos{
+    padding: 50px;
+}
+#childhoodBeggining{
+    color: #5e5e5e;
+    text-align: left;
+    display: block;
+    margin: 5% 10% ;
+    font-size: 25px;
+    font-family: "Segoe Script";
+    font-weight: 100;
+    font-style: italic;
+}
+#firstPart{
+    color: #5e5e5e;
+    text-align: left;
+    display: block;
+    margin: 5% 10% ;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
+}
+#accordingToBrother{
+    color: #5e5e5e;
+    text-align: left;
+    display: block;
+    margin: 5% 15% ;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
+    width: 90%;
+}
+#firstLine{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+
 }

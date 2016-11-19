@@ -7,10 +7,8 @@
     font-family: "Segoe Script";
     font-weight: 100;
     font-style: italic;
-}
-hr{
-    width: 75%;
-    margin-top: -50px;
+    border-bottom: 1px solid #5e5e5e;
+    width: 45%;
 }
 #sign {
     float: left;
