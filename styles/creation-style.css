@@ -1,0 +1,68 @@
+body {
+    overflow: hidden;
+}
+#title{
+    color: #5e5e5e;
+    text-align: center;
+    display: block;
+    margin: 100px auto ;
+    font-size: 50px;
+    font-family: "Segoe Script";
+    font-weight: 100;
+    font-style: italic;
+    border-bottom: 1px solid #5e5e5e;
+    width: 45%;
+}
+#sign {
+    float: left;
+}
+#currentPage{
+    border-bottom:1px solid;
+}
+#navigation{
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+    border-color: #E0E0E0;
+    width: 40%;
+    padding: 5px 5px;
+    font-family: "Sitka Small";
+    font-style: italic;
+}
+
+#navigation a{
+    color: #7F7F7F;
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 5px 22px ;
+    transition: 2s ease 0s;
+}
+#navigation a:hover{
+    transition: 1s ease 0s;
+    color: #545454;
+    font-size: 20px;
+
+
+}
+#vazov1{
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+    width: auto;
+}
+#phrase{
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+    width: 70%;
+    font-family: "Segoe Script";
+    font-size: 20px;
+    color: #ADADAD;
+    transition: 1s ease 0s;
+}
+#phrase:hover{
+
+    transition: 1s ease 0s;
+    font-size:20.5px;
+    color:#7C7C7C;
+}
