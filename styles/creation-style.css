@@ -1,5 +1,5 @@
-body {
-    overflow: hidden;
+::-webkit-scrollbar {
+    display: none;
 }
 #title{
     color: #5e5e5e;
@@ -65,4 +65,68 @@ body {
     transition: 1s ease 0s;
     font-size:20.5px;
     color:#7C7C7C;
+}
+
+#navigation2{
+    margin:  auto;
+    display: block;
+    text-align: center;
+    border-color: #E0E0E0;
+    width: 100%;
+    padding: 10px 5px;
+    font-family: "Sitka Small";
+    font-style: italic;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: #E0E0E0;
+    opacity: 0.9;
+}
+
+#navigation2 a{
+    color: #7F7F7F;
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 5px 22px ;
+    transition: 2s ease 0s;
+    top:0;
+
+}
+#navigation2 a:hover{
+    transition: 1s ease 0s;
+    color: #545454;
+    font-size: 20px;
+}
+#firstSection{
+    color: #5e5e5e;
+    text-align: left;
+    display: block;
+    margin: 5% 10% ;
+    font-size: 25px;
+    font-family: "Segoe Script";
+    font-weight: 100;
+    font-style: italic;
+}
+#firstSec{
+    color: #5e5e5e;
+    text-align: left;
+    display: block;
+    margin: 5% 10% ;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
+}
+.imgs{
+    text-align: center;
+    margin:5% auto ;
+    display: block;
+}
+.stihosbirka{
+    color: #5e5e5e;
+    text-align: left;
+    display: block;
+    margin: 10% 10% ;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
 }
